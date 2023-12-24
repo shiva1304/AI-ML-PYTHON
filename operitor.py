@@ -1,8 +1,9 @@
 #ADD
 a=10
 b=10
+c=5
 
-C=a+b
+C=a+c
 print(C)
 
 #sub
